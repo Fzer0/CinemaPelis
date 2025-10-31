@@ -1,6 +1,14 @@
 # cinema
 
-A new Flutter project.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0c2f2061-2d9a-4300-a2af-0cff0d21d551" width="300" alt="Descripción de la Imagen "/>
+  <img src="https://github.com/user-attachments/assets/d3b83572-7465-48a9-b1d5-810b4ad076e8" width="300" alt="Descripción de la Imagen 2"/>
+</p>
+
+<p align="center">
+  <img src="[URL_IMAGEN_](https://github.com/user-attachments/assets/f53ed27f-d99e-4050-a388-aea3fe9b1880)3" width="300" alt="Descripción de la Imagen 3"/>
+  <img src="[URL_IMAGEN_4](https://github.com/user-attachments/assets/27e0af76-f823-4d72-9450-fdc2d3c2d2ac)" width="300" alt="Descripción de la Imagen 4"/>
+</p>
 
 ## Getting Started
 
